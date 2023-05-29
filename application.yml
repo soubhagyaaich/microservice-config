@@ -3,5 +3,5 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka
 spring:
-   application:
-     name: RESPONSE-SERVICE
+  application:
+    name: RESPONSE-SERVICE
